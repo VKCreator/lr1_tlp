@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>folder_page.png</file>
+        <file>page_white_stack.png</file>
+        <file>bug.png</file>
+        <file>font.png</file>
+        <file>cancel.png</file>
+        <file>chart_organisation.png</file>
+        <file>page_white_code.png</file>
+        <file>page_white_cplusplus.png</file>
+        <file>database.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>highlighter.cpp</file>
+        <file>highlighter.h</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>token.cpp</file>
+        <file>token.h</file>
+        <file>tokenizer.cpp</file>
+        <file>tokenizer.h</file>
+        <file>expr.c</file>
+        <file>lex.c</file>
+        <file>qaxserverbase.cpp</file>
+        <file>error_str.cpp</file>
+        <file>error_comm.cpp</file>
+        <file>cancel.png</file>
+        <file>diff_literals.cpp</file>
+    </qresource>
+</RCC>
